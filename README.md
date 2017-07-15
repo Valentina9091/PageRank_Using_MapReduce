@@ -29,6 +29,7 @@ Instructions to create input directory:
 	hadoop fs -put /local/input/file/path /user/cloudera/input
 
 Steps to execute PageRankAlgorithm :
+
 	1.	Create directory build
 		mkdir built
 		
@@ -82,6 +83,7 @@ Assumptions:
 
 
 Steps to execute PageRankAlgorithm :
+
 	1.	Create directory build
 		mkdir built
 		
